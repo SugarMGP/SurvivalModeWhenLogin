@@ -1,0 +1,4 @@
+name: SurvivalModeWhenLogin
+version: '${project.version}'
+main: io.github.sugarmgp.smwl.SurvivalModeWhenLogin
+api-version: '1.16'
